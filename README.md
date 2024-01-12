@@ -8,7 +8,7 @@ challengelar yaparak kendimi geliştirmeye devam ediyorum.
 
 In order to improve and not forget the issues related to Bootstrap 5, I wanted to make a project inspired by Starbucks.
 
-I continue to improve myself in this process. In this project, I made the homepage of a Kahveci. Every day new projects and
+I continue to improve myself in this process. In this project, I made the homepage of a coffe shop. Every day new projects and
 I continue to improve myself by doing challenges.
 
 CANLI DEMO: https://bootstrap-coffe-project.vercel.app/
